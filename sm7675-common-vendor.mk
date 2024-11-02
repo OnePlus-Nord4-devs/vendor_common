@@ -1610,7 +1610,6 @@ PRODUCT_PACKAGES += \
     android.hardware.bluetooth@1.0-impl-qti \
     android.hardware.bluetooth@1.1-impl-qti \
     android.hardware.gnss-aidl-impl-qti \
-    audio.primary.pineapple \
     camera.qcom.sm8650 \
     camera.qcom \
     com.dsi.ant@1.0-impl \
